@@ -8,6 +8,7 @@ Backup in this Repository: [https://github.com/ZJUCH/Android-AdBlocker/tree/main
 
 Rules:
 
+Collection in this Repository: [https://github.com/ZJUCH/Android-AdBlocker/tree/main/LiTiaoTiao_Rules](https://github.com/ZJUCH/Android-AdBlocker/tree/main/LiTiaoTiao_Rules)
 
 ## 2 GKD
 

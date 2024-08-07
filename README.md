@@ -6,6 +6,9 @@ Android APP:
 
 Backup in this Repository: [https://github.com/ZJUCH/Android-AdBlocker/tree/main/LiTiaoTiao_apk](https://github.com/ZJUCH/Android-AdBlocker/tree/main/LiTiaoTiao_apk)
 
+Rules:
+
+
 ## 2 GKD
 
 ### Android APP:

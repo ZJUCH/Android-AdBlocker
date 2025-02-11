@@ -30,7 +30,7 @@ Recommended Subscription Repository:
 
 [https://github.com/AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription)
 
-订阅链接（npmmirror 国内源）：`https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5`
+订阅链接：`https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5`
 
 #### Adpro-Team
 

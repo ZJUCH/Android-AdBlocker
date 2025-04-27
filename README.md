@@ -26,7 +26,7 @@ Recommended Subscription Repository:
 
 #### Alsouler
 
-注：已于 2025.02.10 停止维护
+注：已于 2025.02.10 停止维护，于 2025.03.20 继续维护
 
 [https://github.com/AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription)
 
